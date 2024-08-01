@@ -1,0 +1,12 @@
+.nav-container{
+    font-size: 20px;
+}
+
+.nav-lists{
+    display: flex;
+    list-style-type:none;
+    color: white;
+}
+.nav-link{
+    margin-right: 15px;
+}

@@ -1,0 +1,14 @@
+.book-list{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+.bookstoreContainer{
+    background-color: bisque;
+
+}
+
+.bookhead{
+    margin-left: 20px;
+}

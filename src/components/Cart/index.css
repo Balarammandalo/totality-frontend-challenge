@@ -1,0 +1,32 @@
+.cartContainer{
+    background-color: beige;
+    height: 100vh;
+    padding-left: 30px;
+    
+}
+
+.cartsList{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.cart-item{
+    font-size: 20px;
+    font-weight: bold;
+}
+.checkButton{
+    width: 90px;
+    height: 30px;
+    background-color: firebrick;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+
+}
+.cart-head{
+    font-size: 25px;
+    font-weight: bold;
+}

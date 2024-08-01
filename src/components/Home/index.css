@@ -1,0 +1,33 @@
+.homes{
+    background-image: linear-gradient(yellow , green);
+    height: 100vh;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    margin-right: 100px;
+}
+.home-container{
+    background-image: linear-gradient(yellow , green);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.getAllbookbuton{
+    background-color: blue;
+    width: 200px;
+    height: 40px;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    outline: none;
+}
+.getAllbookbuton:hover{
+    background-color: aqua;
+    color: black;
+}
